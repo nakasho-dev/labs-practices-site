@@ -1,0 +1,94 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "前へ"
+
+[ui_pager_next]
+other = "次へ"
+
+[ui_read_more]
+other = "続きを読む"
+
+[ui_learn_more]
+other = "詳細はこちら"
+
+[ui_search]
+other = "サイト内を検索…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "in"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "All Rights Reserved"
+
+[footer_privacy_policy]
+other = "プライバシーポリシー"
+
+[footer_terms_of_use]
+other = "利用規約"
+
+[footer_california_privacy_rights]
+other = "カリフォルニア州プライバシー権"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "By"
+[post_created]
+other = "作成日"
+[post_last_mod]
+other = "最終更新日"
+[post_edit_this]
+other = "このページを編集"
+[post_create_issue]
+other = "ドキュメントのissueを作成"
+[post_create_project_issue]
+other = "プロジェクトのissueを作成"
+[post_posts_in]
+other = "Posts in"
+
+# Practices
+[why_do_it]
+other = "なぜ実施するのか"
+
+[when_to_do_it]
+other = "いつ実施するのか"
+
+[what_supplies_are_needed]
+other = "必要なもの"
+
+[how_to_use_this_method_remotely_title]
+other = "リモートでの実施方法"
+
+[how_to_use_this_method_remotely_text]
+other = "Miroにリモートテンプレートがあります。一般的なヒントや情報を含め、このプラクティスをリモートで実施する手順が記載されています。"
+
+[open_miro]
+other = "Miroを開きます。サイドメニューで「Templates」を選択します。"
+
+[search_for_tanzu]
+other = "2. 「Tanzu」で検索するか、"
+
+[click_here]
+other = "こちらをクリック"
+
+[to_use_this_template]
+other = "してこのテンプレートを使用します"
+
+[suggested_time]
+other = "所要時間"
+
+[participants]
+other = "参加者"
+
+[phases]
+other = "フェーズ"
+
+[filter]
+other = "フィルター"
+
+[view_all]
+other = "すべて表示"

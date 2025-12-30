@@ -1,0 +1,25 @@
+---
+title: "Labs Practices Site"
+linkTitle: "Labs Practices Site"
+description: "Labs Practices Site"
+tagline: "効果的なことを実践する。正しいことをする。親切であること。"
+indexes:
+  - "practices"
+  - "learningpaths"
+  - "guides"
+featured:
+  - "topics/about-this-site"
+  - "learningpaths/application-development-how-we-work"
+  - "guides/tanzu-labs-engineer-faq"
+  - "learningpaths/application-development"
+  - "learningpaths/anchor-playbook"
+  - "learningpaths/application-development/test-driven-development"
+  - "learningpaths/consulting-around-design-systems"
+  - "learningpaths/application-development-rhythm"
+  - "practices/2x2"
+  - "practices/3-column-retro"
+  - "practices/journey-map"
+  - "topics/pm-playbook"
+  - "topics/design-guide"
+  - "topics/pivotal-workstation-setup"
+---

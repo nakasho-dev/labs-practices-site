@@ -53,6 +53,10 @@ enableMissingTranslationPlaceholders = true
     contentDir = "content/kr"
     languageName = "Korean"
     weight = 2
+  [languages.ja]
+    contentDir = "content"
+    languageName = "日本語"
+    weight = 3
 
 # Language configuration
 #[languages]

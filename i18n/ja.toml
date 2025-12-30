@@ -19,7 +19,7 @@ other = "サイト内を検索…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
-other = "in"
+other = ""
 
 # Footer text
 [footer_all_rights_reserved]
@@ -36,7 +36,7 @@ other = "カリフォルニア州プライバシー権"
 
 # Post (blog, articles etc.)
 [post_byline_by]
-other = "By"
+other = "投稿者"
 [post_created]
 other = "作成日"
 [post_last_mod]
@@ -48,7 +48,7 @@ other = "ドキュメントのissueを作成"
 [post_create_project_issue]
 other = "プロジェクトのissueを作成"
 [post_posts_in]
-other = "Posts in"
+other = "投稿"
 
 # Practices
 [why_do_it]

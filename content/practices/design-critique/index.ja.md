@@ -84,3 +84,15 @@ why:
 {{% /section %}}
 
 {{% section %}}
+
+### 実例
+
+![付箋を使用してフィードバックが添付されたデザインプリントアウト](images/example-2.jpg)
+{{% /section %}}
+
+{{% section %}}
+
+## 推奨文献
+
+<a href="http://shop.oreilly.com/product/0636920033561.do" target="_blank">Discussing Design</a> by Adam Conner and Aaron Irizarry
+{{% /section %}}

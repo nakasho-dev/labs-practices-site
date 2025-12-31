@@ -23,7 +23,7 @@ what:
   - ドライイレースマーカー
   - 青いマスキングテープ
 remote: false
-miro_template_url: "URL for related Miro template"
+miro_template_url: ""
 ---
 
 ## この方法の使い方
